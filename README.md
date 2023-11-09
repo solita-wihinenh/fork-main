@@ -10,4 +10,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 Updates:
 
-1. Added updates. Edited really from main.
+1. Added updates. Edited both from main and fork.
